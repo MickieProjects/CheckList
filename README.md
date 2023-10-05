@@ -3,8 +3,8 @@
 
 ### Key Function
 
-    - CheckList 
-    - Display Day
-    - Display Date
-    - Display Month
-    - Display Year
+- CheckList 
+- Display Day
+- Display Date
+- Display Month
+- Display Year
